@@ -1,19 +1,19 @@
 <h1 align="center">Hey I'm Byron Becker</h1>
 <h3 align="center">A Full Stack Software Engineer in Seattle, Washington</h3>
 <p align="center">
-  <a target="_blank" href="https://www.breannabang.com/">
+  <a target="_blank" href="https://www.byron-becker.com/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
 <!--     <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/Resume-3B732C?style=for-the-badge&logo=react&logoColor=white">
   </a>
-  <a target="_blank" href="mailto:breanna.bang@gmail.com">
+  <a target="_blank" href="mailto:byrond.becker@gmail.com">
     <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> -->
-  <a target="_blank" href="https://twitter.com/breannabang" target="_blank">
+  <a target="_blank" href="https://twitter.com/ByronBecker5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/breanna-bang/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/byron-becker-85205126/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a target="_blank" href="https://angel.co/u/breanna-bang" target="_blank">
@@ -23,12 +23,7 @@
   
 - 🌱 Eager to learn and I have experience learning on the job.
 
-- 📫 How to reach me: Breanna.Bang@gmail.com
-
-- 😄 Pronouns: She/Her/Hers
-
-- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. 
-<br>
+- 📫 How to reach me: ByronD.Becker@gmail.com
 
 <p align="center"><a href="https://www.codewars.com/users/BreaBang/stats" target="_blank"><img align="center" src="https://www.codewars.com/users/BreaBang/badges/large" align="center"></a></p>
 <br>
