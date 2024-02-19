@@ -25,7 +25,7 @@
 
 - 📫 How to reach me: ByronD.Becker@gmail.com
 
-<p align="center"><a href="https://www.codewars.com/users/bbeck8123" target="_blank"><img align="center" src="https://www.codewars.com/users/BreaBang/badges/large" align="center"></a></p>
+<p align="center"><a href="https://www.codewars.com/users/bbeck8123" target="_blank"><img align="center" src="https://www.codewars.com/users/bbeck8123/badges/large" align="center"></a></p>
 <br>
 
 <h2 align="center">Latest Projects</h2>
