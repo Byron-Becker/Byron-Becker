@@ -34,13 +34,13 @@
     <td width="50%" valign="top">
       <h3 align="center">Write to Run Well Full-Stack Web Application</h3>
         <br>
-        <a target="_blank" href="https://github.com/BreaBang/WTRW">
+        <a target="_blank" href="">
             <img src="https://github.com/BreaBang/WTRW/blob/main/WTRW1.gif?raw=true">
         </a>
         <br>
         <p align="center">
           
-   <a href="https://github.com/BreaBang/100" target="_blank">
+   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
   <a href="https://writetorunwell.com" target="_blank">
@@ -55,13 +55,13 @@
 <td width="50%" valign="top">
       <h3 align="center">Tailor Family Dry Cleaners</h3>
         <br>
-        <a target="_blank" href="https://github.com/BreaBang/SimpleCSSSite">
+        <a target="_blank" href="">
              <img src="https://github.com/BreaBang/SimpleCSSSite/blob/main/TailorFam.gif?raw=true" />
         </a>
         <br>
         <p align="center">
           
-   <a href="https://github.com/BreaBang/" target="_blank">
+   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
   <a href="https://simplecsssite.netlify.app/" target="_blank">
@@ -76,13 +76,13 @@
     <td width="50%" valign="top">
       <h3 align="center">Yoga with You e-Commerce Website</h3>
         <br>
-      <a target="_blank" href="https://github.com/BreaBang/ShoppingCart">
+      <a target="_blank" href="">
             <img src="https://github.com/BreaBang/ShoppingCart/blob/main/images/yogawithyou.gif?raw=true">
         </a>
         <br>
         <p align="center">
           
-  <a href="https://github.com/BreaBang/ShoppingCart" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://yogawithyou.netlify.app/" target="_blank">
